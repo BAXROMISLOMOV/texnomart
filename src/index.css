@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.scrol{
+    overflow: auto;
+    height: 200px;
+}
